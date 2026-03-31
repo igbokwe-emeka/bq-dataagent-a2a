@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+PyJWT
+python-dotenv
+requests
+google-cloud-geminidataanalytics
+google-auth
+vl-convert-python

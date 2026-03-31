@@ -1,0 +1,12 @@
+.gcloudignore
+.git
+.gitignore
+.env
+*.p8
+*.pem
+rsa_key*
+__pycache__/
+*.pyc
+.venv/
+venv/
+error.log
